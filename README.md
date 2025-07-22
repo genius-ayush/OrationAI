@@ -45,4 +45,8 @@ curl --request POST \
   }'
 ```
 
-## ✅ .env is gitignored
+## Important SS
+
+<img width="602" height="413" alt="createdWorkspace" src="https://github.com/user-attachments/assets/cce583b5-5717-4189-847f-aed44dead50d" />
+<img width="1089" height="926" alt="createdAgent" src="https://github.com/user-attachments/assets/8efe4609-6733-4940-a35f-9eb823fd3ca1" />
+<img width="1658" height="926" alt="extraFeatures" src="https://github.com/user-attachments/assets/b6556313-dd86-43ce-b59d-dfc197c4b91f" />
